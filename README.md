@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veduino
 - 👀 I’m interested in embedded
 - 🌱 I’m currently learning node red
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IoT projects
 - 📫 How to reach me vedthakur1999@gmail.com
 
 <!---
